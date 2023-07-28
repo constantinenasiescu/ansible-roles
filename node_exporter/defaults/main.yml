@@ -1,0 +1,4 @@
+---
+# defaults file for node_exporter
+os_user: root
+os_group: root
