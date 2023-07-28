@@ -1,0 +1,4 @@
+---
+# defaults file for docker
+ansible_distribution_release: focal
+docker_compose_version: 1.29.2
